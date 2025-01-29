@@ -1,4 +1,4 @@
-# Password based lock
+# Password based lock using 8051 Microcontroller
 Password based lock system using 8051 microcontroller.
 The code and the circuit diagram are included in the repository!  
 <br>
