@@ -1,6 +1,6 @@
 # Password based lock
 Password based lock system using 8051 microcontroller.
-The code and the circuit diagram are included in the folders!  
+The code and the circuit diagram are included in the repository!  
 <br>
 The coding is done in C language using Keil uVision5 software and the compiled hex file is uploaded to the 8051 microcontroller in Proteus 8 software.  
 <br>
